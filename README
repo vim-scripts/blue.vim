@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=115
+
+I just wanted a blue theme for use with vim ... and I did this one. I looks better on gvim, because of the hexa color values there. but works good on the console too. some things need to fix, but by now its working good for me. ;-)
